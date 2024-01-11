@@ -32,21 +32,21 @@ function App() {
       (portfolioInView && !aboutInView && !projectsInView) ||
       (!portfolioInView && !aboutInView && !projectsInView)
     ) {
-      window.document.title = "Pranav - Portfolio";
+      window.document.title = "Dhairyasheel - Portfolio";
       window.history.pushState(null, null, "#portfolio");
       setActiveMenu("portfolio");
     } else if (
       (portfolioInView && aboutInView && !projectsInView) ||
       (!portfolioInView && aboutInView && !projectsInView)
     ) {
-      window.document.title = "Pranav - About";
+      window.document.title = "Dhairyasheel - About";
       window.history.pushState(null, null, "#about");
       setActiveMenu("about");
     } else if (
       (portfolioInView && aboutInView && projectsInView) ||
       (!portfolioInView && !aboutInView && projectsInView)
     ) {
-      window.document.title = "Pranav - Projects";
+      window.document.title = "Dhairyasheel - Projects";
       window.history.pushState(null, null, "#projects");
       setActiveMenu("projects");
     }
