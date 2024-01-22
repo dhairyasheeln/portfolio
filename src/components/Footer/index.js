@@ -52,7 +52,7 @@ function Footer() {
         </a>
         <a
           className="footerItem"
-          href="https://drive.google.com/file/d/1WwD-jJGp3dgpeCSXRW-_uNOHYvykR43y/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1XYy04uZ-zvQw6BwTdLwodpL4dcYXVaxC/view?usp=drive_link"
           download="resume-dhairyasheel"
           target="_blank"
           rel="noreferrer"
