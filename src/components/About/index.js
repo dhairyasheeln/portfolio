@@ -86,7 +86,7 @@ function About({ aboutRef }) {
           </div>
 
           <div className="flex">
-            <h2 className="about-me-header">Likes</h2>
+            <h2 className="about-me-header">Hobbies</h2>
             <ul className="likes-certifications-list">
               <li>Badminton</li>
               <li>Doodling</li>
@@ -104,14 +104,13 @@ function About({ aboutRef }) {
       </div>
       <section>
         <p className="about-me">
-        Little more about me, I'm {calculateYears([1997, 7], Date.now())}{" "}
-        years old with a total of {" "}
-          {calculateYears([2019, 8], Date.now())} years of experience in UI. 
-          My primary expertise lies in web development, with a special focus 
-          on harnessing the power of React. I've also dabbled in backend technologies such as Node and Express.
-          My true passion lies in creating the 
-          perfect look and feel for everything I work on. So, if you like my website, 
-          feel free to reach out—contact details below.
+        Here's a little more about me, I'm {calculateYears([1997, 7], Date.now())}{" "}
+        years old and I've been immersed in the IT industry for around {" "}
+          {calculateYears([2019, 8], Date.now())}. 
+          My primary expertise lies in web development, with a special focus on harnessing the 
+          power of React. I've also dabbled in backend technologies such as Node.js and Express.js. 
+          My true passion lies in creating the perfect look and feel for everything I work on. 
+          So, if you like my website, feel free to reach out—contact details below.
         </p>
         <h2 className="about-me-header">
           <span className="animate-character">Wow !</span> Thanks for sticking

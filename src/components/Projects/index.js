@@ -27,9 +27,9 @@ function Projects({ projectsRef }) {
       <Project
         projectName={"Skill Management Tool"}
         projectObj={"Streamlining employee training, evaluation, and project allocation."}
-        projectRole={"React Developer"}
+        projectRole={"Fullstack Developer"}
         projectSize={"4"}
-        projectStack={"React, TypeScript, Redux, AntDesign, HTML, CSS"}
+        projectStack={"React.js, Node.js, Express.js, TypeScript, Redux, AntDesign, HTML, CSS"}
         projectDescription={
           "A streamlined platform for Resource Management Team to manage employee trainings across diverse technical and non-technical skills. This tool not only captures training specifics and assessment outcomes but also helps resource team in assigning projects to employees, considering their scores and proficiency in specific domains."
         }
