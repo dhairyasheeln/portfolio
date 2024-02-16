@@ -50,7 +50,7 @@ function Footer() {
         >
           Email
         </a>
-        <a
+        {/* <a
           className="footerItem"
           href="https://drive.google.com/file/d/1XYy04uZ-zvQw6BwTdLwodpL4dcYXVaxC/view?usp=drive_link"
           download="resume-dhairyasheel"
@@ -58,7 +58,7 @@ function Footer() {
           rel="noreferrer"
         >
           Resume
-        </a>
+        </a> */}
       </footer>
     </>
   );

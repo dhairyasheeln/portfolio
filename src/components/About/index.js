@@ -94,10 +94,6 @@ function About({ aboutRef }) {
                 Trekking
                 {/* <img src={sitar} className="emoji" alt="Sitar logo" /> */}
               </li>
-              <li>
-                Pizza
-                {/* <img src={pizza} className="emoji" alt="Pizza logo" /> */}
-              </li>
             </ul>
           </div>
         </section>

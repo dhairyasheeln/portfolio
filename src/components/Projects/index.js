@@ -15,7 +15,7 @@ function Projects({ projectsRef }) {
         projectObj={"Revolutionizing healthcare by transitioning from the traditional fee-for-service model to a value-based care approach"}
         projectRole={"React Developer"}
         projectSize={"16"}
-        projectStack={"React, TypeScript, Redux, AntDesign, HTML, SASS"}
+        projectStack={"React, TypeScript, Redux, AntDesign, HTML, SASS, Node.js, Express.js"}
         projectDescription={
           "This software targets a segment of the USA healthcare system dedicated to providing healthcare access for vulnerable and low-income populations. It aims to transition this segment of healthcare from the traditional fee-for-service model to a Value-based Care approach, emphasizing improved patient outcomes, enhanced healthcare quality, satisfaction, and cost control. With a focus on a patient-centered approach and preventive care, the software aims to create a more efficient and responsive healthcare system designed to meet the needs of vulnerable and low-income populations."
         }
@@ -29,7 +29,7 @@ function Projects({ projectsRef }) {
         projectObj={"Streamlining employee training, evaluation, and project allocation."}
         projectRole={"Fullstack Developer"}
         projectSize={"4"}
-        projectStack={"React.js, Node.js, Express.js, TypeScript, Redux, AntDesign, HTML, CSS"}
+        projectStack={"React.js, Node.js, Express.js, TypeScript, Redux, HTML, CSS"}
         projectDescription={
           "A streamlined platform for Resource Management Team to manage employee trainings across diverse technical and non-technical skills. This tool not only captures training specifics and assessment outcomes but also helps resource team in assigning projects to employees, considering their scores and proficiency in specific domains."
         }
@@ -43,7 +43,7 @@ function Projects({ projectsRef }) {
         projectObj={"Payments Portal for a Bank"}
         projectRole={"React Developer"}
         projectSize={"7"}
-        projectStack={"Frontend: React | Backend: Java"}
+        projectStack={"React.js, Redux, MUI, HTML, CSS, Java"}
         projectDescription={
           "A payment portal designed specifically for the bank's distinguished clients, managing a substantial volume of transactions. This software replaces the bank's previous offline process, which relied on manual supervision, with an efficient electronic alternative, offering a seamless and time-saving experience."
         }
