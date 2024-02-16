@@ -59,13 +59,13 @@ function App() {
       <section id="portfolio" ref={portfolioRef}>
         <header className="portfolio-header">
           <h1>
-            <span className="greeting">Hi ! I Am</span>
+            <span className="greeting">Hi ! I am</span>
             <br />
             <span className="animate-character">Dhairyasheel</span>
             <span className="dotColorTheme">.</span>
             <br />
             <p className="profile">
-              I'm a <span className="animate-character">UI Developer</span>{" "}
+              I'm a <span className="animate-character">Web Developer</span>{" "}
               based in Pune, India<span className="dotColorTheme">.</span>
             </p>
           </h1>
